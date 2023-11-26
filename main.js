@@ -10,7 +10,7 @@ let mainWindow;
 
 const createWindow = () => {
     mainWindow = new BrowserWindow({
-        width: 802,
+        width: 803,
         height: 824,
         useContentSize: false,
         // frame: false,
